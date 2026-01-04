@@ -1,2 +1,5 @@
-# js-text-uppercase-lowercase
-Convert text to uppercase and lowercase using JavaScript
+# JS Text Uppercase & Lowercase
+
+A simple text converter that transforms input text to uppercase or lowercase.
+
+This project demonstrates string manipulation using JavaScript.
